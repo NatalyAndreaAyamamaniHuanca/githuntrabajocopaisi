@@ -1,2 +1,2 @@
 # githuntrabajocopaisi
-este es una maquetacion web para el II COPAISI
+esta es una maquetacion web para el II COPAISI
